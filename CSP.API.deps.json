@@ -423,7 +423,6 @@
       "CSP.Contract/1.0.0": {
         "dependencies": {
           "AutoMapper": "13.0.1",
-          "CSP.Repository": "1.0.0",
           "MediatR": "12.4.1",
           "Microsoft.Extensions.Configuration.Abstractions": "9.0.0",
           "Microsoft.Extensions.Options": "9.0.1",
@@ -467,6 +466,7 @@
       },
       "CSP.Repository/1.0.0": {
         "dependencies": {
+          "CSP.Contract": "1.0.0",
           "CSP.Shared": "1.0.0",
           "Dapper": "2.1.35",
           "JWT": "11.0.0",
