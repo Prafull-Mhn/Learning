@@ -14,6 +14,7 @@
           "CSP.Middleware": "1.0.0",
           "MediatR": "12.4.1",
           "Microsoft.Extensions.DependencyInjection": "9.0.1",
+          "Newtonsoft.Json": "13.0.3",
           "Swashbuckle.AspNetCore": "6.5.0",
           "System.Collections": "4.3.0"
         },
@@ -461,6 +462,7 @@
           "MediatR": "12.4.1",
           "Microsoft.Extensions.Configuration.Abstractions": "9.0.0",
           "Microsoft.Extensions.Options": "9.0.1",
+          "Newtonsoft.Json": "13.0.3",
           "Serilog.AspNetCore": "9.0.0",
           "System.IdentityModel.Tokens.Jwt": "8.3.1"
         },
